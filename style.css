@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+}
+
+:root{
+  font-size: 62.5%;
+}
+
+body{
+  font-size: 1.6rem;
+}
+
+main section{
+  align-items: center;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  animation-name: rodar;
+  animation-duration:4s;
+  animation-timing-function: ease-out;
+  animation-iteration-count: infinite;
+}
+
+@keyframes rodar {
+  0%{
+    transform: rotate(1deg);
+  }
+  50%{
+    transform: rotate(720deg);
+  }
+  100%{
+    transform: rotate(360deg);
+    transform:scale(0.01);
+  }
+  
+}
