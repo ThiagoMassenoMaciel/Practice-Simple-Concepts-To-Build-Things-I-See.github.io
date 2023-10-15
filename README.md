@@ -6,7 +6,8 @@ Version 1.1
 ![LoadingBufferingGIF (2)](https://github.com/ThiagoMassenoMaciel/Practice-Simple-Concepts-To-Build-Things-I-See.github.io/assets/107934374/8c1e0917-61e7-48eb-8ce0-cf92ced0c408)
 # i am trying to make this 
   ![WindowsUpdateGIF](https://github.com/ThiagoMassenoMaciel/Practice-Simple-Concepts-To-Build-Things-I-See.github.io/assets/107934374/de93023f-24b3-41da-a69b-e6515dc5f61f)
-
+# link -
+[over here](https://thiagomassenomaciel.github.io/Practice-Simple-Concepts-To-Build-Things-I-See.github.io/)
 
 
 
